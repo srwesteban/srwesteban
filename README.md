@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm William David Esteban Mora
 
-<!--
-**srwesteban/srwesteban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Developer | Spring Boot | REST APIs  
+📍 Based in Colombia | Open to Remote Opportunities  
+🎯 Focused on building robust backend systems with clean architecture
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🦷 [Dental Clinic API](https://github.com/srwesteban/dental-clinic) – RESTful CRUD system for managing dental patients and appointments
+- 📚 [Library Manager](https://github.com/srwesteban/library-api) – Secure Spring Boot API with login & role-based access
+- 💬 More coming soon...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Java 17, Spring Boot, Spring Security
+- JPA/Hibernate, MySQL, H2
+- Postman, IntelliJ IDEA, Git, Maven
+
+## 📫 Let's Connect!
+- Twitter/X: [@westeban12](https://twitter.com/westeban12)
+- Email: williamdev@example.com (pon uno real si quieres)
+
+Thanks for visiting!
