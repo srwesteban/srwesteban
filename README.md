@@ -16,6 +16,6 @@
 
 ## 📫 Let's Connect!
 - Twitter/X: [@westeban12](https://twitter.com/westeban12)
-- Email: williamdev@example.com (pon uno real si quieres)
+- Email: sr.w@hotmail.com 
 
 Thanks for visiting!
